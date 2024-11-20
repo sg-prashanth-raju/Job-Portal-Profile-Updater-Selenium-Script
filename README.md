@@ -34,3 +34,5 @@ To run the application locally
 ```bash
 python3 main.py
 ```
+
+Extension of https://github.com/navchandar/Naukri
